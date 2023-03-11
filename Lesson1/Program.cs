@@ -13,15 +13,3 @@ foreach (var i in test)
     Console.WriteLine();
 }
 
-//do
-//{
-//    Console.WriteLine("Put a number or write \"q\" to quit: ");
-//    res = Console.ReadLine();
-//    if (res != null && res != "q")
-//    {
-//        Console.WriteLine(Solution.GetSolution(int.Parse(res)));
-//    }
-
-//} while (res != "q");
-
-//Console.WriteLine($"Solution 2: {Solution.GetSolution2(123)}");
