@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson17", "Lesson17\Lesson
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3.FrogJmp", "Lesso3.FrogJmp\Lesson3.FrogJmp.csproj", "{06636BC7-1071-4EAC-BD04-9E425E573493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3.PermMissingElem", "Lesson3.PermMissingElem\Lesson3.PermMissingElem.csproj", "{D0CB6D71-5531-455C-A9F3-A4D9A2F3ACB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3.PermMissingElem", "Lesson3.PermMissingElem\Lesson3.PermMissingElem.csproj", "{D0CB6D71-5531-455C-A9F3-A4D9A2F3ACB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3.TapeEquilibrium", "Lesson3.TapeEquilibrium\Lesson3.TapeEquilibrium.csproj", "{1318187C-7717-48A0-A3EB-57AE3B5974D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3.TapeEquilibrium", "Lesson3.TapeEquilibrium\Lesson3.TapeEquilibrium.csproj", "{1318187C-7717-48A0-A3EB-57AE3B5974D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.FrogRiverOne", "Lesson4.FrogRiverOne\Lesson4.FrogRiverOne.csproj", "{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.PermCheck", "Lesson4.PermCheck\Lesson4.PermCheck.csproj", "{00714830-3780-4788-85B3-30E89A43AC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.MaxCounters", "Lesson4.MaxCounters\Lesson4.MaxCounters.csproj", "{616C71C1-287C-456E-BF24-13958B213242}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{1318187C-7717-48A0-A3EB-57AE3B5974D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1318187C-7717-48A0-A3EB-57AE3B5974D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1318187C-7717-48A0-A3EB-57AE3B5974D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00714830-3780-4788-85B3-30E89A43AC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00714830-3780-4788-85B3-30E89A43AC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00714830-3780-4788-85B3-30E89A43AC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00714830-3780-4788-85B3-30E89A43AC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616C71C1-287C-456E-BF24-13958B213242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616C71C1-287C-456E-BF24-13958B213242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616C71C1-287C-456E-BF24-13958B213242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616C71C1-287C-456E-BF24-13958B213242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
