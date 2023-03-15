@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3.PermMissingElem", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3.TapeEquilibrium", "Lesson3.TapeEquilibrium\Lesson3.TapeEquilibrium.csproj", "{1318187C-7717-48A0-A3EB-57AE3B5974D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.FrogRiverOne", "Lesson4.FrogRiverOne\Lesson4.FrogRiverOne.csproj", "{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4.FrogRiverOne", "Lesson4.FrogRiverOne\Lesson4.FrogRiverOne.csproj", "{7A4B9711-A433-4D7D-AA6D-FB6C88FD38F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.PermCheck", "Lesson4.PermCheck\Lesson4.PermCheck.csproj", "{00714830-3780-4788-85B3-30E89A43AC01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4.PermCheck", "Lesson4.PermCheck\Lesson4.PermCheck.csproj", "{00714830-3780-4788-85B3-30E89A43AC01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.MaxCounters", "Lesson4.MaxCounters\Lesson4.MaxCounters.csproj", "{616C71C1-287C-456E-BF24-13958B213242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4.MaxCounters", "Lesson4.MaxCounters\Lesson4.MaxCounters.csproj", "{616C71C1-287C-456E-BF24-13958B213242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.MissingInteger", "Lesson4.MissingInteger\Lesson4.MissingInteger.csproj", "{9780B7B1-0AAB-40BE-945B-82AFF80FCE53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{616C71C1-287C-456E-BF24-13958B213242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{616C71C1-287C-456E-BF24-13958B213242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{616C71C1-287C-456E-BF24-13958B213242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9780B7B1-0AAB-40BE-945B-82AFF80FCE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9780B7B1-0AAB-40BE-945B-82AFF80FCE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9780B7B1-0AAB-40BE-945B-82AFF80FCE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9780B7B1-0AAB-40BE-945B-82AFF80FCE53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
